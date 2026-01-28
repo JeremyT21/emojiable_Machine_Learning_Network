@@ -1,5 +1,8 @@
 ![Emojibale](READMEimages/emojiable.png)
 
+## Try generating some emojis!
+[Click Here to go to the emoji~able Website](https://jeremyt21.github.io/jeremy/webpages/emojiable/index.html)
+
 ## An experimental study of the theory and implementation of Generative Adversarial Networks (BONUS WGAN)
 ### Purpose 
 - Investigated the training, deployment, and integration of Generative Neural Networks by creating an Emoji Generator.
